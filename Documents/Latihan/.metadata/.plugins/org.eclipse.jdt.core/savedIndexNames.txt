@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+C:\Users\Acer\Documents\Latihan\.metadata\.plugins\org.eclipse.jdt.core
+2772189863.index
+2895242668.index
+2178987511.index
+1865797976.index
+1522632048.index
+2124678193.index
